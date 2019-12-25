@@ -1,4 +1,4 @@
-# Warmup Week 07 Day 01 Sieve
+# Warmup Sieve
 
 ## The Sieve of Eratosthenes
 
